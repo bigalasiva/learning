@@ -1,0 +1,3 @@
+first file to create 
+for practise git gitbash and linux
+
