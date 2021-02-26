@@ -1,0 +1,5 @@
+when we set up git we need to set mailid and username coz it will be use 
+we can do lot of work with git like we can push the code  to it repo and push the code from repo
+we can fork other people working rrepo and can made changes and made pull requests and push the changes to their repo 
+we can create branches and can work in those brances
+git have physical working area and virtual staging area ......like when we add any file ..it will go to staging area and later we commit it will go to local area
